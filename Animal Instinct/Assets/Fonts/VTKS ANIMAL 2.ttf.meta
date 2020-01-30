@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b9fc89c26b87af1438edd368781cd849
+timeCreated: 1444501311
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: vtks animal 2
+  fontNames:
+  - vtks animal 2
+  fallbackFontReferences: []
+  customCharacters: "INSTCnsticF\u20ACGuay.,moed MljgJwWEvxpKAfzhkPRr\xE8012O3456789:\xE9"
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
